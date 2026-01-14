@@ -11,8 +11,11 @@ In this project, I analyzed transactional e-commerce data to understand customer
 The dataset consists of transaction-level online retail data, including customer identifiers, product details, quantities, prices, timestamps, country information, and indicators of cancelled or returned transactions. This level of granularity allowed for detailed analysis of revenue drivers, repeat purchasing behavior, and return patterns.
 
 ## Scope & Approach
-	I dedicated significant effort to data cleaning and validation to ensure transaction-level accuracy before drawing conclusions. This included filtering cancelled transactions, removing invalid quantities or prices, and resolving inconsistencies that could distort revenue calculations.
+
+I dedicated significant effort to data cleaning and validation to ensure transaction-level accuracy before drawing conclusions. This included filtering cancelled transactions, removing invalid quantities or prices, and resolving inconsistencies that could distort revenue calculations.
+
 During the exploratory phase, I tested and refined multiple investigative questions. The final analysis focuses on the most decision-relevant questions and insights that remained after validating data quality, rather than documenting every intermediate exploratory step.
+
 
 ## Key Business Questions
 
