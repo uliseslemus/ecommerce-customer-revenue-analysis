@@ -33,7 +33,14 @@ During the exploratory phase, I tested and refined multiple investigative questi
 
 
 ## Power BI Integration
-	I used Power BI to operationalize the insights derived in the analysis by building dashboards that monitor revenue, returns, and product performance. These dashboards enable country- and product-level drilldowns aligned with the concentration patterns identified in the notebook, focusing on insight communication rather than additional data exploration.
+
+To support interactive exploration and stakeholder-friendly presentation, I developed a Power BI dashboard that summarizes key customer and revenue insights. The dashboard focuses on revenue concentration, repeat versus one-time customer behavior, and the relationship between returns and net revenue.
+
+The report enables users to quickly identify high-impact customers and products, explore country-level performance, and assess how return behavior affects overall profitability.
 
 ## Next Steps
-	With the core revenue and return patterns established, I would extend this work by segmenting customers based on purchasing and return behavior, tracking customer lifetime value over time, and automating revenue and return monitoring using SQL-based pipelines feeding dashboards.
+
+Future iterations of this project could expand on the current analysis by incorporating customer-level segmentation, cohort-based retention analysis, and predictive modeling for return likelihood.
+
+Additional enhancements may include automating the data pipeline, enriching the dataset with marketing or acquisition data, and extending the dashboard to support scenario analysis for pricing or inventory decisions.
+
