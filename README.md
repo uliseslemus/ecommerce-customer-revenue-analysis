@@ -7,7 +7,8 @@ In this project, I analyzed transactional e-commerce data to understand customer
 - Jupyter Notebook 
 
 ## Dataset
-	The dataset consists of transaction-level online retail data, including customer identifiers, product details, quantities, prices, timestamps, country information, and indicators of cancelled or returned transactions. This level of granularity allowed me to analyze revenue drivers, repeat purchasing behavior, and return patterns in detail.
+
+The dataset consists of transaction-level online retail data, including customer identifiers, product details, quantities, prices, timestamps, country information, and indicators of cancelled or returned transactions. This level of granularity allowed for detailed analysis of revenue drivers, repeat purchasing behavior, and return patterns.
 
 ## Scope & Approach
 	I dedicated significant effort to data cleaning and validation to ensure transaction-level accuracy before drawing conclusions. This included filtering cancelled transactions, removing invalid quantities or prices, and resolving inconsistencies that could distort revenue calculations.
