@@ -21,10 +21,12 @@ During the exploratory phase, I tested and refined multiple investigative questi
 - Which products contribute the most to revenue relative to their return behavior?
 
 ## Key Insights
-•	Revenue is highly concentrated among a relatively small set of countries and products.
-•	While product returns occur across the catalog, their impact on overall revenue is primarily driven by a limited number of products.
-•	Most products contribute positively to revenue with relatively low return behavior, suggesting targeted intervention is more effective than broad operational changes.
-•	Retention and focus on high-impact products provide greater leverage than optimizing for transaction volume alone.
+
+- Revenue is highly concentrated among a relatively small set of countries and products.
+- While product returns occur across the catalog, their impact on overall revenue is primarily driven by a limited number of products.
+- Most products contribute positively to revenue with relatively low return behavior, suggesting targeted intervention is more effective than broad operational changes.
+- Retention and focus on high-impact products provide greater leverage than optimizing for transaction volume alone.
+
 
 ## Power BI Integration
 	I used Power BI to operationalize the insights derived in the analysis by building dashboards that monitor revenue, returns, and product performance. These dashboards enable country- and product-level drilldowns aligned with the concentration patterns identified in the notebook, focusing on insight communication rather than additional data exploration.
