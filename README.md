@@ -14,10 +14,11 @@ In this project, I analyzed transactional e-commerce data to understand customer
 During the exploratory phase, I tested and refined multiple investigative questions. The final analysis focuses on the most decision-relevant questions and insights that remained after validating data quality, rather than documenting every intermediate exploratory step.
 
 ## Key Business Questions
-•	How concentrated is revenue across countries and products?
-•	To what extent do product returns impact overall revenue?
-•	Are product returns disproportionately driven by a small subset of products?
-•	Which products contribute the most to revenue relative to their return behavior?
+
+- How concentrated is revenue across countries and products?
+- To what extent do product returns impact overall revenue?
+- Are product returns disproportionately driven by a small subset of products?
+- Which products contribute the most to revenue relative to their return behavior?
 
 ## Key Insights
 •	Revenue is highly concentrated among a relatively small set of countries and products.
