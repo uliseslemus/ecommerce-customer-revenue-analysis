@@ -1,5 +1,9 @@
+# E-commerce Customer Revenue & Returns Analysis
+
 ## Project Overview
-In this project, I analyzed transactional e-commerce data to understand customer purchasing behavior, revenue concentration, and the impact of product returns. My goal was to identify which customers, products, and markets drive the majority of revenue and to surface insights that could inform retention strategies, product focus, and operational decision-making.
+
+This project analyzes transactional e-commerce data to identify the customers, products, and markets that drive the majority of revenue. The analysis focuses on revenue concentration, repeat purchasing behavior, and the impact of product returns, with the goal of surfacing insights that support retention strategies, product prioritization, and operational decision-making.
+
 
 ## Tools & Technologies
 - Python (pandas, NumPy)
